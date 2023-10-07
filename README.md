@@ -12,6 +12,7 @@ click to watch the demo video:
 https://clipchamp.com/watch/vT0kw7pOKy4
 ## Documentation
 
+
 [Unity-Manual: Unity user manual](https://docs.unity3d.com/Manual/index.html)
 
 
@@ -29,6 +30,8 @@ to control rotation of player in x and y- direction
 
 
 ## Screenshots
+<img width="425" alt="Screenshot1" src="https://github.com/sriimalya/CityTour/assets/125035993/faeb0ca9-044c-411e-b264-5ea4f04d4b73">
+<img width="415" alt="Screenshot2" src="https://github.com/sriimalya/CityTour/assets/125035993/7f3a9d92-91ea-4237-9a67-faaa07bb612d">
+<img width="416" alt="Screenshot3" src="https://github.com/sriimalya/CityTour/assets/125035993/bc8aa474-b41d-46c2-acd8-3b9f2dd20c75">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
