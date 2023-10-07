@@ -18,7 +18,7 @@ https://clipchamp.com/watch/vT0kw7pOKy4
 
 ## Features/Functionalities used
 
-1. Character Controller: A CharacterController allows you to easily do movement constrained by collisions without having to deal with a rigidbody.
+1. Character Controller: A **CharacterController** allows you to easily do movement constrained by collisions without having to deal with a rigidbody.
 
 2. PlayerController.cs script:
 to control the movement speed of player in x(horizontal) and y(vertical) direction
